@@ -29,7 +29,7 @@ jobs:
             echo "Checking folder: $folder_name"
             
             # Verify the mandatory skill.md file exists inside the folder
-            if [ ! -f "${folder_name}/skill.md" ]; then
+            if [ ! -f "${folder_name}/SKILL.md" ]; then
               echo "❌ Error: Missing required 'skill.md' file inside folder '${folder_name}'"
               errors=$((errors + 1))
             else
