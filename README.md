@@ -7,7 +7,7 @@ This repository contains independently maintained AI skills that define how an A
 Each skill is self-contained and can be selected or used independently depending on the task.
 
 ---
-
+ 
 ## 🎯 Purpose
 
 The purpose of this repository is to maintain a centralized collection of reusable AI skills.
